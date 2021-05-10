@@ -102,7 +102,9 @@
 				"typeProperties": {
 					"variableName": "files",
 					"value": [
-						""
+						"var",
+						"var1",
+						"var2"
 					]
 				}
 			},
