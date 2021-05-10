@@ -101,6 +101,12 @@
 				"defaultValue": "FileName"
 			}
 		},
+		"variables": {
+			"var": {
+				"type": "String",
+				"defaultValue": "var"
+			}
+		},
 		"annotations": []
 	}
 }
