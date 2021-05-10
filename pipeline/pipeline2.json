@@ -63,7 +63,10 @@
 						"referenceName": "DestinationDataset_njt",
 						"type": "DatasetReference",
 						"parameters": {
-							"FileName": "FileName"
+							"FileName": {
+								"value": "@pipeline().parameters.FileName",
+								"type": "Expression"
+							}
 						}
 					}
 				]
